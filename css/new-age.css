@@ -349,11 +349,12 @@ section.contact ul.list-social li a {
   border-radius: 100%;
   color: white;
 }
-section.contact ul.list-social li.social-twitter a {
+section.contact ul.list-social li.social-download a {
   background-color: #fff;
   color: #0d95e8;
+  font-weight: lighter;
 }
-section.contact ul.list-social li.social-twitter a:hover {
+section.contact ul.list-social li.social-download a:hover {
   background-color: #ccc;
 }
 section.contact ul.list-social li.social-facebook a {
